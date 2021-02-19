@@ -20,7 +20,7 @@ body {
     bottom: 0;
     right: 0;
     opacity: 0.83;
-    background: linear-gradient(blue, purple);
+    background: linear-gradient(cyan, yellow);
     display: table;
     width: 100%;
     height: 100%;
@@ -86,7 +86,7 @@ p {
 
 .links{
     float: left;
-    color: #fff;
+    color:white;
     padding-top: 5px;
     padding-left: 9px;
     padding-right: 9px;
@@ -95,5 +95,5 @@ p {
     font-size: 20px;
 }
 .links:hover{
-    background-color: dodgerblue;
+    background-color:gainsboro;
 }
